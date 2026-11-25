@@ -1,0 +1,657 @@
+{
+  "schema_version": 1,
+  "catalog_scope": "Visual outfit and generated-face assets only; no character biography, powers, skills, or weapons.",
+  "tier_note": "Premium-Look and Standard-Look are visual-complexity categories, not confirmed production-cost estimates.",
+  "character_name_note": "Names are generated working labels only and do not assign nationality, story, or personality.",
+  "characters": [
+    {
+      "character_id": "CHR-H-F-0001",
+      "outfit_id": "OUT-0001",
+      "character_name": "Nira Voss",
+      "type": "Hero",
+      "gender_section": "Female",
+      "visual_tier": "Premium-Look",
+      "palette_name": "Verdant Alloy",
+      "palette_colors": [
+        "deep emerald",
+        "forest green",
+        "antique bronze",
+        "black"
+      ],
+      "color_intention": "Resilience and calm authority",
+      "image": "Heroes/Female/Premium-Look/CHR-H-F-0001__OUT-0001__Nira-Voss.png",
+      "suit_name": "Verdant Alloy"
+    },
+    {
+      "character_id": "CHR-H-M-0001",
+      "outfit_id": "OUT-0002",
+      "character_name": "Taren Sol",
+      "type": "Hero",
+      "gender_section": "Male",
+      "visual_tier": "Standard-Look",
+      "palette_name": "Midnight Alloy",
+      "palette_colors": [
+        "midnight navy",
+        "graphite",
+        "silver",
+        "muted amber"
+      ],
+      "color_intention": "Precision and restraint",
+      "image": "Heroes/Male/Standard-Look/CHR-H-M-0001__OUT-0002__Taren-Sol.png",
+      "suit_name": "Midnight Alloy"
+    },
+    {
+      "character_id": "CHR-H-F-0002",
+      "outfit_id": "OUT-0003",
+      "character_name": "Elia Neri",
+      "type": "Hero",
+      "gender_section": "Female",
+      "visual_tier": "Premium-Look",
+      "palette_name": "Silver Current",
+      "palette_colors": [
+        "cobalt blue",
+        "ivory",
+        "brushed silver",
+        "dark navy"
+      ],
+      "color_intention": "Clarity and forward energy",
+      "image": "Heroes/Female/Premium-Look/CHR-H-F-0002__OUT-0003__Elia-Neri.png",
+      "suit_name": "Silver Current"
+    },
+    {
+      "character_id": "CHR-H-M-0002",
+      "outfit_id": "OUT-0004",
+      "character_name": "Ravi Kade",
+      "type": "Hero",
+      "gender_section": "Male",
+      "visual_tier": "Premium-Look",
+      "palette_name": "Ember Guard",
+      "palette_colors": [
+        "burgundy",
+        "charcoal",
+        "aged copper",
+        "black"
+      ],
+      "color_intention": "Endurance and contained intensity",
+      "image": "Heroes/Male/Premium-Look/CHR-H-M-0002__OUT-0004__Ravi-Kade.png",
+      "suit_name": "Ember Guard"
+    },
+    {
+      "character_id": "CHR-H-F-0003",
+      "outfit_id": "OUT-0005",
+      "character_name": "Sena Vale",
+      "type": "Hero",
+      "gender_section": "Female",
+      "visual_tier": "Premium-Look",
+      "palette_name": "Crimson Bastion",
+      "palette_colors": [
+        "deep crimson",
+        "obsidian black",
+        "antique gold"
+      ],
+      "color_intention": "Boldness and presence",
+      "image": "Heroes/Female/Premium-Look/CHR-H-F-0003__OUT-0005__Sena-Vale.png",
+      "suit_name": "Crimson Bastion"
+    },
+    {
+      "character_id": "CHR-H-F-0004",
+      "outfit_id": "OUT-0006",
+      "character_name": "Aven Rell",
+      "type": "Hero",
+      "gender_section": "Female",
+      "visual_tier": "Standard-Look",
+      "palette_name": "Indigo Meridian",
+      "palette_colors": [
+        "indigo",
+        "plum",
+        "bronze",
+        "navy"
+      ],
+      "color_intention": "Composure and adaptability",
+      "image": "Heroes/Female/Standard-Look/CHR-H-F-0004__OUT-0006__Aven-Rell.png",
+      "suit_name": "Indigo Meridian"
+    },
+    {
+      "character_id": "CHR-H-M-0003",
+      "outfit_id": "OUT-0007",
+      "character_name": "Soran Venn",
+      "type": "Hero",
+      "gender_section": "Male",
+      "visual_tier": "Premium-Look",
+      "palette_name": "Jade Sovereign",
+      "palette_colors": [
+        "deep teal",
+        "ivory",
+        "gold",
+        "dark teal"
+      ],
+      "color_intention": "Composure and prestige",
+      "image": "Heroes/Male/Premium-Look/CHR-H-M-0003__OUT-0007__Soran-Venn.png",
+      "suit_name": "Jade Sovereign"
+    },
+    {
+      "character_id": "CHR-V-M-0001",
+      "outfit_id": "OUT-0008",
+      "character_name": "Kian Varek",
+      "type": "Villain",
+      "gender_section": "Male",
+      "visual_tier": "Premium-Look",
+      "palette_name": "Night Circuit",
+      "palette_colors": [
+        "graphite black",
+        "cool silver",
+        "deep cyan"
+      ],
+      "color_intention": "Calculation and restraint",
+      "image": "Villains/Male/Premium-Look/CHR-V-M-0001__OUT-0008__Kian-Varek.png",
+      "suit_name": "Night Circuit"
+    },
+    {
+      "character_id": "CHR-V-F-0001",
+      "outfit_id": "OUT-0009",
+      "character_name": "Vera Sorn",
+      "type": "Villain",
+      "gender_section": "Female",
+      "visual_tier": "Premium-Look",
+      "palette_name": "Violet Circuit",
+      "palette_colors": [
+        "deep aubergine",
+        "titanium grey",
+        "silver",
+        "muted violet"
+      ],
+      "color_intention": "Control and mystery",
+      "image": "Villains/Female/Premium-Look/CHR-V-F-0001__OUT-0009__Vera-Sorn.png",
+      "suit_name": "Violet Circuit"
+    },
+    {
+      "character_id": "CHR-H-M-0004",
+      "outfit_id": "OUT-0010",
+      "character_name": "Zarek Noll",
+      "type": "Hero",
+      "gender_section": "Male",
+      "visual_tier": "Premium-Look",
+      "palette_name": "Cobalt Circuit",
+      "palette_colors": [
+        "graphite",
+        "cobalt blue",
+        "amber micro-accents"
+      ],
+      "color_intention": "Engineering precision and forward motion",
+      "image": "Heroes/Male/Premium-Look/CHR-H-M-0004__OUT-0010__Zarek-Noll.png",
+      "suit_name": "Cobalt Circuit"
+    },
+    {
+      "character_id": "CHR-H-F-0005",
+      "outfit_id": "OUT-0011",
+      "character_name": "Lira Venn",
+      "type": "Hero",
+      "gender_section": "Female",
+      "visual_tier": "Premium-Look",
+      "palette_name": "Violet Titanium",
+      "palette_colors": [
+        "deep plum",
+        "pearl titanium",
+        "teal micro-accents"
+      ],
+      "color_intention": "Adaptability and composed confidence",
+      "image": "Heroes/Female/Premium-Look/CHR-H-F-0005__OUT-0011__Lira-Venn.png",
+      "suit_name": "Violet Titanium"
+    },
+    {
+      "character_id": "CHR-V-M-0002",
+      "outfit_id": "OUT-0012",
+      "character_name": "Orvan Kest",
+      "type": "Villain",
+      "gender_section": "Male",
+      "visual_tier": "Premium-Look",
+      "palette_name": "Obsidian Furnace",
+      "palette_colors": [
+        "matte obsidian",
+        "graphite titanium",
+        "ember copper"
+      ],
+      "color_intention": "Pressure and uncompromising force",
+      "image": "Villains/Male/Premium-Look/CHR-V-M-0002__OUT-0012__Orvan-Kest.png",
+      "suit_name": "Obsidian Furnace"
+    },
+    {
+      "character_id": "CHR-H-M-0005",
+      "outfit_id": "OUT-0013",
+      "character_name": "Arin Kade",
+      "suit_name": "Forgeborn Suit",
+      "type": "Hero",
+      "gender_section": "Male",
+      "visual_tier": "Premium-Look",
+      "palette_name": "Obsidian Forge",
+      "palette_colors": [
+        "obsidian black",
+        "metallic ruby",
+        "deep garnet"
+      ],
+      "color_intention": "First-generation armor and contained power",
+      "image": "Heroes/Male/Premium-Look/CHR-H-M-0005__OUT-0013__Arin-Kade.png"
+    },
+    {
+      "character_id": "CHR-H-M-0006",
+      "outfit_id": "OUT-0014",
+      "character_name": "Reyan Voss",
+      "suit_name": "Nightglass Suit",
+      "type": "Hero",
+      "gender_section": "Male",
+      "visual_tier": "Premium-Look",
+      "palette_name": "Nightglass",
+      "palette_colors": [
+        "matte black",
+        "deep crimson",
+        "carbon graphite"
+      ],
+      "color_intention": "Grounded lead-hero presence",
+      "image": "Heroes/Male/Premium-Look/CHR-H-M-0006__OUT-0014__Reyan-Voss.png"
+    },
+    {
+      "character_id": "CHR-H-M-0007",
+      "outfit_id": "OUT-0015",
+      "character_name": "Veer Rathod",
+      "suit_name": "Ruby Bastion Suit",
+      "type": "Hero",
+      "gender_section": "Male",
+      "visual_tier": "Premium-Look",
+      "palette_name": "Ruby Bastion",
+      "palette_colors": [
+        "obsidian black",
+        "metallic ruby",
+        "antique gold"
+      ],
+      "color_intention": "Heavy protection and command",
+      "image": "Heroes/Male/Premium-Look/CHR-H-M-0007__OUT-0015__Veer-Rathod.png"
+    },
+    {
+      "character_id": "CHR-H-M-0008",
+      "outfit_id": "OUT-0016",
+      "character_name": "Samar Dev",
+      "suit_name": "Crimson Regent Suit",
+      "type": "Hero",
+      "gender_section": "Male",
+      "visual_tier": "Premium-Look",
+      "palette_name": "Crimson Regent",
+      "palette_colors": [
+        "black chrome",
+        "wine crimson",
+        "dark antique gold"
+      ],
+      "color_intention": "Royal authority and intimidation",
+      "image": "Heroes/Male/Premium-Look/CHR-H-M-0008__OUT-0016__Samar-Dev.png"
+    },
+    {
+      "character_id": "CHR-H-M-0009",
+      "outfit_id": "OUT-0017",
+      "character_name": "Dhruv Aranya",
+      "suit_name": "Terra Warden Suit",
+      "type": "Hero",
+      "gender_section": "Male",
+      "visual_tier": "Premium-Look",
+      "palette_name": "Terra Warden",
+      "palette_colors": [
+        "forest green",
+        "soil brown",
+        "burnt copper",
+        "charcoal"
+      ],
+      "color_intention": "Earth-born guardian identity",
+      "image": "Heroes/Male/Premium-Look/CHR-H-M-0009__OUT-0017__Dhruv-Aranya.png"
+    },
+    {
+      "character_id": "CHR-H-M-0010",
+      "outfit_id": "OUT-0018",
+      "character_name": "Ayaan Veyr",
+      "suit_name": "Shardflare Suit",
+      "type": "Hero",
+      "gender_section": "Male",
+      "visual_tier": "Premium-Look",
+      "palette_name": "Shardflare",
+      "palette_colors": [
+        "obsidian",
+        "smoked crystal",
+        "ruby energy"
+      ],
+      "color_intention": "Awakened living armor",
+      "image": "Heroes/Male/Premium-Look/CHR-H-M-0010__OUT-0018__Ayaan-Veyr.png"
+    },
+    {
+      "character_id": "CHR-H-M-0011",
+      "outfit_id": "OUT-0019",
+      "character_name": "Ishaan Raag",
+      "suit_name": "Fracture Crown Suit",
+      "type": "Hero",
+      "gender_section": "Male",
+      "visual_tier": "Premium-Look",
+      "palette_name": "Fracture Crown",
+      "palette_colors": [
+        "black crystal",
+        "deep garnet",
+        "ivory gold"
+      ],
+      "color_intention": "Ancient energy and transformation",
+      "image": "Heroes/Male/Premium-Look/CHR-H-M-0011__OUT-0019__Ishaan-Raag.png"
+    },
+    {
+      "character_id": "CHR-H-M-0012",
+      "outfit_id": "OUT-0020",
+      "character_name": "Neel Varma",
+      "suit_name": "Emerald Ascendant Suit",
+      "type": "Hero",
+      "gender_section": "Male",
+      "visual_tier": "Premium-Look",
+      "palette_name": "Emerald Ascendant",
+      "palette_colors": [
+        "emerald green",
+        "pearl white",
+        "sapphire blue",
+        "champagne gold"
+      ],
+      "color_intention": "Fresh guardian identity",
+      "image": "Heroes/Male/Premium-Look/CHR-H-M-0012__OUT-0020__Neel-Varma.png"
+    },
+    {
+      "character_id": "CHR-H-M-0013",
+      "outfit_id": "OUT-0021",
+      "character_name": "Kabir Voss",
+      "suit_name": "Helix Prime Suit",
+      "type": "Hero",
+      "gender_section": "Male",
+      "visual_tier": "Premium-Look",
+      "palette_name": "Helix Prime",
+      "palette_colors": [
+        "titanium silver",
+        "pearl white",
+        "cobalt blue",
+        "emerald energy"
+      ],
+      "color_intention": "Primary sealed technological exosuit",
+      "image": "Heroes/Male/Premium-Look/CHR-H-M-0013__OUT-0021__Kabir-Voss.png"
+    },
+    {
+      "character_id": "CHR-H-M-0014",
+      "outfit_id": "OUT-0022",
+      "character_name": "Dev Arclight",
+      "suit_name": "Aegis Meridian Suit",
+      "type": "Hero",
+      "gender_section": "Male",
+      "visual_tier": "Premium-Look",
+      "palette_name": "Aegis Meridian",
+      "palette_colors": [
+        "pearl white",
+        "cobalt blue",
+        "emerald",
+        "champagne gold"
+      ],
+      "color_intention": "Defensive armor and stability",
+      "image": "Heroes/Male/Premium-Look/CHR-H-M-0014__OUT-0022__Dev-Arclight.png"
+    },
+    {
+      "character_id": "CHR-H-M-0015",
+      "outfit_id": "OUT-0023",
+      "character_name": "Rian Sol",
+      "suit_name": "Orbit Lancer Suit",
+      "type": "Hero",
+      "gender_section": "Male",
+      "visual_tier": "Premium-Look",
+      "palette_name": "Orbit Lancer",
+      "palette_colors": [
+        "pearl silver",
+        "violet blue",
+        "turquoise",
+        "platinum"
+      ],
+      "color_intention": "Agility and flight systems",
+      "image": "Heroes/Male/Premium-Look/CHR-H-M-0015__OUT-0023__Rian-Sol.png"
+    },
+    {
+      "character_id": "CHR-H-M-0016",
+      "outfit_id": "OUT-0024",
+      "character_name": "Arka Sen",
+      "suit_name": "Titan Forge Suit",
+      "type": "Hero",
+      "gender_section": "Male",
+      "visual_tier": "Premium-Look",
+      "palette_name": "Titan Forge",
+      "palette_colors": [
+        "ivory ceramic",
+        "bronze",
+        "deep teal",
+        "amber"
+      ],
+      "color_intention": "Heavy rescue and industrial strength",
+      "image": "Heroes/Male/Premium-Look/CHR-H-M-0016__OUT-0024__Arka-Sen.png"
+    },
+    {
+      "character_id": "CHR-H-M-0017",
+      "outfit_id": "OUT-0025",
+      "character_name": "Zian Noor",
+      "suit_name": "Veil Vector Suit",
+      "type": "Hero",
+      "gender_section": "Male",
+      "visual_tier": "Premium-Look",
+      "palette_name": "Veil Vector",
+      "palette_colors": [
+        "frosted pearl",
+        "sea green",
+        "electric cyan",
+        "soft gold"
+      ],
+      "color_intention": "Infiltration and adaptive concealment",
+      "image": "Heroes/Male/Premium-Look/CHR-H-M-0017__OUT-0025__Zian-Noor.png"
+    },
+    {
+      "character_id": "CHR-H-F-0006",
+      "outfit_id": "OUT-0026",
+      "character_name": "Echo",
+      "suit_name": "Holographic Veil Suit",
+      "type": "Hero",
+      "gender_section": "Female",
+      "visual_tier": "Premium-Look",
+      "palette_name": "Holographic Veil",
+      "palette_colors": [
+        "frosted crystal",
+        "ice blue",
+        "silver"
+      ],
+      "color_intention": "Digital-sentience presence",
+      "image": "Heroes/Female/Premium-Look/CHR-H-F-0006__OUT-0026__Echo.png"
+    },
+    {
+      "character_id": "CHR-H-F-0007",
+      "outfit_id": "OUT-0027",
+      "character_name": "Luma Arc",
+      "suit_name": "Prismatic Current Suit",
+      "type": "Hero",
+      "gender_section": "Female",
+      "visual_tier": "Premium-Look",
+      "palette_name": "Prismatic Current",
+      "palette_colors": [
+        "pearl white",
+        "electric blue",
+        "icy silver"
+      ],
+      "color_intention": "Pure energy manifestation",
+      "image": "Heroes/Female/Premium-Look/CHR-H-F-0007__OUT-0027__Luma-Arc.png"
+    },
+    {
+      "character_id": "CHR-H-M-0018",
+      "outfit_id": "OUT-0028",
+      "character_name": "Kyran Hollow",
+      "suit_name": "Hollow Crown Suit",
+      "type": "Hero",
+      "gender_section": "Male",
+      "visual_tier": "Premium-Look",
+      "palette_name": "Hollow Crown",
+      "palette_colors": [
+        "ivory ceramic",
+        "indigo void",
+        "pale cyan"
+      ],
+      "color_intention": "Unsettling control and fractured identity",
+      "image": "Heroes/Male/Premium-Look/CHR-H-M-0018__OUT-0028__Kyran-Hollow.png"
+    },
+    {
+      "character_id": "CHR-H-M-0019",
+      "outfit_id": "OUT-0029",
+      "character_name": "Dagan Rook",
+      "suit_name": "Gravity Tyrant Suit",
+      "type": "Hero",
+      "gender_section": "Male",
+      "visual_tier": "Premium-Look",
+      "palette_name": "Gravity Tyrant",
+      "palette_colors": [
+        "oxidized bronze",
+        "deep teal",
+        "molten amber"
+      ],
+      "color_intention": "Unstoppable force and domination",
+      "image": "Heroes/Male/Premium-Look/CHR-H-M-0019__OUT-0029__Dagan-Rook.png"
+    },
+    {
+      "character_id": "CHR-H-F-0008",
+      "outfit_id": "OUT-0030",
+      "character_name": "Nyra Veil",
+      "suit_name": "Veil Hunter Suit",
+      "type": "Hero",
+      "gender_section": "Female",
+      "visual_tier": "Premium-Look",
+      "palette_name": "Veil Hunter",
+      "palette_colors": [
+        "violet",
+        "pearl grey",
+        "toxic chartreuse"
+      ],
+      "color_intention": "Predatory stealth and reflection-hunting",
+      "image": "Heroes/Female/Premium-Look/CHR-H-F-0008__OUT-0030__Nyra-Veil.png"
+    },
+    {
+      "character_id": "CHR-H-F-0009",
+      "outfit_id": "OUT-0031",
+      "character_name": "Seraph Null",
+      "suit_name": "Parasite Angel Suit",
+      "type": "Hero",
+      "gender_section": "Female",
+      "visual_tier": "Premium-Look",
+      "palette_name": "Parasite Angel",
+      "palette_colors": [
+        "pearl white",
+        "electric blue",
+        "sickly gold",
+        "deep turquoise"
+      ],
+      "color_intention": "Beautiful corruption and energy theft",
+      "image": "Heroes/Female/Premium-Look/CHR-H-F-0009__OUT-0031__Seraph-Null.png"
+    },
+    {
+      "character_id": "CHR-H-M-0020",
+      "outfit_id": "OUT-0032",
+      "character_name": "Architect Zero",
+      "suit_name": "Silent Architect Suit",
+      "type": "Hero",
+      "gender_section": "Male",
+      "visual_tier": "Premium-Look",
+      "palette_name": "Silent Architect",
+      "palette_colors": [
+        "mineral white",
+        "oxidized turquoise",
+        "bruised violet",
+        "pale gold"
+      ],
+      "color_intention": "Spatial erasure and absolute silence",
+      "image": "Heroes/Male/Premium-Look/CHR-H-M-0020__OUT-0032__Architect-Zero.png"
+    },
+    {
+      "character_id": "CHR-H-M-0021",
+      "outfit_id": "OUT-0033",
+      "character_name": "Iron Wraith",
+      "suit_name": "Iron Wraith Suit",
+      "type": "Hero",
+      "gender_section": "Male",
+      "visual_tier": "Premium-Look",
+      "palette_name": "Iron Wraith",
+      "palette_colors": [
+        "aged titanium",
+        "burnished bronze",
+        "deep indigo",
+        "oxidized jade"
+      ],
+      "color_intention": "Conqueror presence and physical dominance",
+      "image": "Heroes/Male/Premium-Look/CHR-H-M-0021__OUT-0033__Iron-Wraith.png"
+    },
+    {
+      "character_id": "CHR-H-M-0022",
+      "outfit_id": "OUT-0034",
+      "character_name": "Aurex Sol",
+      "suit_name": "Solaris Armor",
+      "type": "Hero",
+      "gender_section": "Male",
+      "visual_tier": "Premium-Look",
+      "palette_name": "Solaris",
+      "palette_colors": [
+        "pearl ivory",
+        "royal sapphire",
+        "solar gold"
+      ],
+      "color_intention": "Aerial power and radiant protection",
+      "image": "Heroes/Male/Premium-Look/CHR-H-M-0022__OUT-0034__Aurex-Sol.png"
+    },
+    {
+      "character_id": "CHR-H-F-0010",
+      "outfit_id": "OUT-0035",
+      "character_name": "Veda Aranya",
+      "suit_name": "Verdant Armor",
+      "type": "Hero",
+      "gender_section": "Female",
+      "visual_tier": "Premium-Look",
+      "palette_name": "Verdant",
+      "palette_colors": [
+        "deep emerald",
+        "sandstone",
+        "brushed copper",
+        "turquoise"
+      ],
+      "color_intention": "Environmental guardianship and renewal",
+      "image": "Heroes/Female/Premium-Look/CHR-H-F-0010__OUT-0035__Veda-Aranya.png"
+    },
+    {
+      "character_id": "CHR-H-M-0023",
+      "outfit_id": "OUT-0036",
+      "character_name": "Nivan Tide",
+      "suit_name": "Azure Armor",
+      "type": "Hero",
+      "gender_section": "Male",
+      "visual_tier": "Premium-Look",
+      "palette_name": "Azure",
+      "palette_colors": [
+        "brushed titanium",
+        "cobalt blue",
+        "icy pearl",
+        "cyan"
+      ],
+      "color_intention": "Pressure resistance and deep-water mobility",
+      "image": "Heroes/Male/Premium-Look/CHR-H-M-0023__OUT-0036__Nivan-Tide.png"
+    },
+    {
+      "character_id": "CHR-H-F-0011",
+      "outfit_id": "OUT-0037",
+      "character_name": "Mira Phase",
+      "suit_name": "Amethyst Armor",
+      "type": "Hero",
+      "gender_section": "Female",
+      "visual_tier": "Premium-Look",
+      "palette_name": "Amethyst",
+      "palette_colors": [
+        "pearl silver",
+        "rich violet",
+        "champagne metal",
+        "violet energy"
+      ],
+      "color_intention": "Phase-shift mobility and spatial control",
+      "image": "Heroes/Female/Premium-Look/CHR-H-F-0011__OUT-0037__Mira-Phase.png"
+    }
+  ]
+}
