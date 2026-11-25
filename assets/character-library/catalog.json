@@ -654,11 +654,11 @@
       "image": "Heroes/Female/Premium-Look/CHR-H-F-0011__OUT-0037__Mira-Phase.png"
     },
     {
-      "character_id": "CHR-V-F-0002",
+      "character_id": "CHR-H-F-0012",
       "outfit_id": "OUT-0038",
       "character_name": "Ilyra Senn",
       "suit_name": "Boneglass Eclipse Suit",
-      "type": "Villain",
+      "type": "Hero",
       "gender_section": "Female",
       "visual_tier": "Premium-Look",
       "palette_name": "Boneglass Eclipse",
@@ -668,8 +668,8 @@
         "oxidized jade",
         "muted ultraviolet"
       ],
-      "color_intention": "Uncanny disfigurement and irrational menace",
-      "image": "Villains/Female/Premium-Look/CHR-V-F-0002__OUT-0038__Ilyra-Senn.png"
+      "color_intention": "Composed elegance and crystalline resilience",
+      "image": "Heroes/Female/Premium-Look/CHR-H-F-0012__OUT-0038__Ilyra-Senn.png"
     }
   ]
 }

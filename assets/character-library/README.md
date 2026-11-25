@@ -33,7 +33,7 @@ Generated character names are working labels only. They do not assign a national
 
 ## Current inventory
 
-The Actors/Heroes section contains male and female hero looks organized by gender and visual tier. One attempted four-image hero generation had one credit-related failure; the failed image was not assigned an ID. The imported series lineup includes suit names, character names, and outfit IDs for lookup. Six additional character renders have also been numbered and placed in the Heroes section as requested. The villain lineup includes Kian Varek (CHR-V-M-0001 / OUT-0008), Orvan Kest (CHR-V-M-0002 / OUT-0012), and Ilyra Senn (CHR-V-F-0002 / OUT-0038), whose Boneglass Eclipse look uses a deliberately asymmetrical, ragged bone-and-smoky-glass silhouette for uncanny, irrational menace. The villain images are newly generated with original faces. All image paths are relative to this folder, so the package can be imported as a unit.
+The Actors/Heroes section contains male and female hero looks organized by gender and visual tier. Ilyra Senn (CHR-H-F-0012 / OUT-0038), in her original Boneglass Eclipse look, is cataloged in Heroes as requested. One attempted four-image hero generation had one credit-related failure; the failed image was not assigned an ID. The imported series lineup includes suit names, character names, and outfit IDs for lookup. Six additional character renders have also been numbered and placed in the Heroes section as requested. The villain lineup includes Kian Varek (CHR-V-M-0001 / OUT-0008) and Orvan Kest (CHR-V-M-0002 / OUT-0012). The villain images are newly generated with original faces. All image paths are relative to this folder, so the package can be imported as a unit.
 
 ## Imported series lineup
 
