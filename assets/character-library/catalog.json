@@ -670,6 +670,134 @@
       ],
       "color_intention": "Composed elegance and crystalline resilience",
       "image": "Heroes/Female/Premium-Look/CHR-H-F-0012__OUT-0038__Ilyra-Senn.png"
+    },
+    {
+      "character_id": "CHR-V-M-0003",
+      "outfit_id": "OUT-0039",
+      "character_name": "Varkesh Dhoom",
+      "suit_name": "Grave-Iron Mantle",
+      "type": "Villain",
+      "gender_section": "Male",
+      "visual_tier": "Premium-Look",
+      "palette_name": "Grave-Iron",
+      "palette_colors": [
+        "ash grey",
+        "soot black",
+        "oxidized iron",
+        "bruised burgundy",
+        "ember red"
+      ],
+      "color_intention": "Ominous authority and scorched menace",
+      "image": "Villains/Male/Premium-Look/CHR-V-M-0003__OUT-0039__Varkesh-Dhoom.png"
+    },
+    {
+      "character_id": "CHR-V-F-0002",
+      "outfit_id": "OUT-0040",
+      "character_name": "Nereth Vaal",
+      "suit_name": "Abyssal Veil",
+      "type": "Villain",
+      "gender_section": "Female",
+      "visual_tier": "Premium-Look",
+      "palette_name": "Abyssal Veil",
+      "palette_colors": [
+        "petroleum teal",
+        "blackened sea-green",
+        "salt grey",
+        "dull bone"
+      ],
+      "color_intention": "Silent dread and abyssal control",
+      "image": "Villains/Female/Premium-Look/CHR-V-F-0002__OUT-0040__Nereth-Vaal.png"
+    },
+    {
+      "character_id": "CHR-V-M-0004",
+      "outfit_id": "OUT-0041",
+      "character_name": "Nhal-Kor",
+      "suit_name": "The Unmade",
+      "type": "Villain",
+      "gender_section": "Male",
+      "visual_tier": "Premium-Look",
+      "palette_name": "Unmade",
+      "palette_colors": [
+        "chalk bone",
+        "tar black",
+        "sickly ochre",
+        "dull amber"
+      ],
+      "color_intention": "Alien intimidation and skeletal menace",
+      "image": "Villains/Male/Premium-Look/CHR-V-M-0004__OUT-0041__Nhal-Kor.png"
+    },
+    {
+      "character_id": "CHR-V-M-0005",
+      "outfit_id": "OUT-0042",
+      "character_name": "Keryth Voss",
+      "suit_name": "The Choirless",
+      "type": "Villain",
+      "gender_section": "Male",
+      "visual_tier": "Premium-Look",
+      "palette_name": "Choirless Resonance",
+      "palette_colors": [
+        "soot black",
+        "antique bronze",
+        "dirty parchment grey",
+        "muted dried-wine"
+      ],
+      "color_intention": "Quiet dread and oppressive command",
+      "image": "Villains/Male/Premium-Look/CHR-V-M-0005__OUT-0042__Keryth-Voss.png"
+    },
+    {
+      "character_id": "CHR-V-M-0006",
+      "outfit_id": "OUT-0043",
+      "character_name": "Moruq Vaal",
+      "suit_name": "The Root-Wound",
+      "type": "Villain",
+      "gender_section": "Male",
+      "visual_tier": "Premium-Look",
+      "palette_name": "Root-Wound",
+      "palette_colors": [
+        "dead charcoal wood",
+        "rot brown",
+        "ash grey",
+        "sickly ivory",
+        "muted green"
+      ],
+      "color_intention": "Corrupted nature and predatory menace",
+      "image": "Villains/Male/Premium-Look/CHR-V-M-0006__OUT-0043__Moruq-Vaal.png"
+    },
+    {
+      "character_id": "CHR-V-M-0007",
+      "outfit_id": "OUT-0044",
+      "character_name": "Veyr Khal",
+      "suit_name": "The Cinder Wound",
+      "type": "Villain",
+      "gender_section": "Male",
+      "visual_tier": "Premium-Look",
+      "palette_name": "Cinder Wound",
+      "palette_colors": [
+        "basalt black",
+        "charcoal grey",
+        "ember orange",
+        "deep rust red"
+      ],
+      "color_intention": "Molten force and destructive menace",
+      "image": "Villains/Male/Premium-Look/CHR-V-M-0007__OUT-0044__Veyr-Khal.png"
+    },
+    {
+      "character_id": "CHR-V-F-0003",
+      "outfit_id": "OUT-0045",
+      "character_name": "Skelra Venn",
+      "suit_name": "The Folded Crown",
+      "type": "Villain",
+      "gender_section": "Female",
+      "visual_tier": "Premium-Look",
+      "palette_name": "Folded Crown",
+      "palette_colors": [
+        "oil-slick black-green",
+        "bruised violet",
+        "dull ivory",
+        "ash grey"
+      ],
+      "color_intention": "Alien precision and insectoid intimidation",
+      "image": "Villains/Female/Premium-Look/CHR-V-F-0003__OUT-0045__Skelra-Venn.png"
     }
   ]
 }
