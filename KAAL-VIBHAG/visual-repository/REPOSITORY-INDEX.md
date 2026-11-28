@@ -34,7 +34,7 @@ All placeholder PNGs are transparent and intentionally empty until image generat
 | ID | Office | View | Detail | Status | PNG |
 |---|---|---|---|---|---|
 | OFF-MAHAKAAL-EXT | महाकाल सभागार | Exterior | प्रमुख का कक्ष; कालेश्वर का सिंहासन, समय की आवाज़ और केंद्रीय सत्ता। | Placeholder | [PNG](offices/exterior/OFF-MAHAKAAL-EXT.png) |
-| OFF-MAHAKAAL-INT | महाकाल सभागार | Interior | प्रमुख का कक्ष; कालेश्वर का सिंहासन, समय की आवाज़ और केंद्रीय सत्ता। | Placeholder | [PNG](offices/interior/OFF-MAHAKAAL-INT.png) |
+| OFF-MAHAKAAL-INT | महाकाल सभागार | Interior | प्रमुख का कक्ष; कालेश्वर का सिंहासन, समय की आवाज़ और केंद्रीय सत्ता। | Ready | [PNG](offices/interior/OFF-MAHAKAAL-INT.png) |
 | OFF-REKHA-PAT-EXT | रेखा-पट कक्ष | Exterior | लेखपालों का मुख्य कार्यालय; विशाल timeline map और रिकॉर्ड-लेखन व्यवस्था। | Placeholder | [PNG](offices/exterior/OFF-REKHA-PAT-EXT.png) |
 | OFF-REKHA-PAT-INT | रेखा-पट कक्ष | Interior | लेखपालों का मुख्य कार्यालय; विशाल timeline map और रिकॉर्ड-लेखन व्यवस्था। | Placeholder | [PNG](offices/interior/OFF-REKHA-PAT-INT.png) |
 | OFF-ABHILEKHAGAR-EXT | अभिलेखागार | Exterior | कर्म-बहियों और ताड़पत्र रिकॉर्ड का विशाल भंडार। | Placeholder | [PNG](offices/exterior/OFF-ABHILEKHAGAR-EXT.png) |
