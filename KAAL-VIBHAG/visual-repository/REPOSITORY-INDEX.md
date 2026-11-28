@@ -5,8 +5,8 @@ All placeholder PNGs are transparent and intentionally empty until image generat
 
 ## Repository status
 
-- Existing character renders copied: 8
-- Character placeholders created: KV-06 through KV-10
+- Existing character renders completed: 13
+- Character placeholders completed: KV-06 through KV-10
 - Office assets planned: 11 offices × exterior/interior = 22 placeholders
 - Army assets planned: 8 placeholders
 - No new AI images were generated in this setup pass.
@@ -20,11 +20,11 @@ All placeholder PNGs are transparent and intentionally empty until image generat
 | KV-03 | वर्तिका | लेखपाल / अभिलेखागार | Ready | [PNG](characters/KV-03.png) |
 | KV-04 | दृष्टि | प्रमुख निरीक्षक / दृष्टि-शिखर | Ready | [PNG](characters/KV-04.png) |
 | KV-05 | सूक्ष्म | निरीक्षक / दृष्टि-शिखर | Ready | [PNG](characters/KV-05.png) |
-| KV-06 | दंडपाल | दंडधर सेनापति / दंड-शाला | Placeholder — fill after limit reset | [PNG](characters/KV-06.png) |
-| KV-07 | निर्मूल | मुख्य शुद्धिकर्ता / शुद्धि-कुंड | Placeholder — fill after limit reset | [PNG](characters/KV-07.png) |
-| KV-08 | लोप | शुद्धिकर्ता / शुद्धि-कुंड | Placeholder — fill after limit reset | [PNG](characters/KV-08.png) |
-| KV-09 | अक्षर | बागी लेखपाल / रेखा-पट कक्ष | Placeholder — fill after limit reset | [PNG](characters/KV-09.png) |
-| KV-10 | कालिंदी | बागी लेखपाल / रेखा-पट कक्ष | Placeholder — fill after limit reset | [PNG](characters/KV-10.png) |
+| KV-06 | दंडपाल | दंडधर सेनापति / दंड-शाला | Ready | [PNG](characters/KV-06.png) |
+| KV-07 | निर्मूल | मुख्य शुद्धिकर्ता / शुद्धि-कुंड | Ready | [PNG](characters/KV-07.png) |
+| KV-08 | लोप | शुद्धिकर्ता / शुद्धि-कुंड | Ready | [PNG](characters/KV-08.png) |
+| KV-09 | अक्षर | बागी लेखपाल / रेखा-पट कक्ष | Ready | [PNG](characters/KV-09.png) |
+| KV-10 | कालिंदी | बागी लेखपाल / रेखा-पट कक्ष | Ready | [PNG](characters/KV-10.png) |
 | KV-11 | नेत्रक | बागी निरीक्षक / दृष्टि-शिखर | Ready | [PNG](characters/KV-11.png) |
 | KV-12 | द्वारेश | तटस्थ काल-द्वारपाल / द्वार-मंडल | Ready | [PNG](characters/KV-12.png) |
 | KV-13 | विस्मृति | तटस्थ स्मृति-पाल / स्मृति-गृह | Ready | [PNG](characters/KV-13.png) |

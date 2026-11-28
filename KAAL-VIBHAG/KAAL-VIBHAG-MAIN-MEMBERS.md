@@ -31,9 +31,8 @@ Character repository for the original Indian-mythological sci-fi organization **
 
 ## Status
 
-- Completed today: 8 of 13 character images.
-- Pending: KV-06 through KV-10.
-- The pending five can be generated after the image-generation limit resets.
+- Completed: 13 of 13 character images.
+- KV-01 through KV-13 are now complete.
 
 ## KAAL VIBHAG - LAWS AND LORE
 
