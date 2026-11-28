@@ -60,11 +60,11 @@ All placeholder PNGs are transparent and intentionally empty until image generat
 
 | ID | Unit | Detail | Status | PNG |
 |---|---|---|---|---|
-| ARMY-PRALAY-VAHINI | पूरी प्रलय-वाहिनी | सात अक्षौहिणियों की पूर्ण सेना; अंतिम समय-आदेश पर आगे बढ़ती विनाशकारी वाहिनी। | Placeholder | [PNG](army/ARMY-PRALAY-VAHINI.png) |
-| ARMY-YUG-GAJ | युग-गज | विशाल समय-हाथी; हर कदम से युगों का क्षय और धूल। | Placeholder | [PNG](army/ARMY-YUG-GAJ.png) |
+| ARMY-PRALAY-VAHINI | पूरी प्रलय-वाहिनी | सात अक्षौहिणियों की पूर्ण सेना; अंतिम समय-आदेश पर आगे बढ़ती विनाशकारी वाहिनी। | Ready | [PNG](army/ARMY-PRALAY-VAHINI.png) |
+| ARMY-YUG-GAJ | युग-गज | विशाल समय-हाथी; हर कदम से युगों का क्षय और धूल। | Ready | [PNG](army/ARMY-YUG-GAJ.png) |
 | ARMY-SAPTARASHMI-ASHWA | सप्तरश्मि अश्व | ग्रहों के बीच दौड़ने वाली तीव्र समय-घोड़ा इकाई। | Placeholder | [PNG](army/ARMY-SAPTARASHMI-ASHWA.png) |
 | ARMY-SAPTACHAKRA-RATH | सप्तचक्र रथ | चलते-फिरते काल-द्वार वाले भारी रथ और कमान वाहन। | Placeholder | [PNG](army/ARMY-SAPTACHAKRA-RATH.png) |
-| ARMY-KHAMOSH-SAINIK | खामोश सैनिक | बिना चेहरे और बिना नाम के पैदल सैनिक; संभवतः बिना लिखी रेखाओं वाले लोग। | Placeholder | [PNG](army/ARMY-KHAMOSH-SAINIK.png) |
+| ARMY-KHAMOSH-SAINIK | खामोश सैनिक | बिना चेहरे और बिना नाम के पैदल सैनिक; संभवतः बिना लिखी रेखाओं वाले लोग। | Ready | [PNG](army/ARMY-KHAMOSH-SAINIK.png) |
 | ARMY-KSHAN-CHINTIYAN | क्षण-चींटियाँ | अरबों सूक्ष्म क्षण-जीव; वर्तमान को खाकर जगह मिटाते हैं। | Placeholder | [PNG](army/ARMY-KSHAN-CHINTIYAN.png) |
 | ARMY-DANDADHAR | दंडधर सेना | एक जैसे काले-सुनहरे कवच वाले प्रवर्तक और काल-दंड धारी। | Placeholder | [PNG](army/ARMY-DANDADHAR.png) |
 | ARMY-COMMAND | प्रलय-वाहिनी कमांड दृश्य | कालेश्वर के आदेश पर सेना के जागने और आगे बढ़ने का दृश्य। | Placeholder | [PNG](army/ARMY-COMMAND.png) |
